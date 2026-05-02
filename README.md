@@ -1,1 +1,2 @@
-![a](Tak berjudul1395_20260502164515.png)
+<p align="center">
+  <img src="demo.gif" width="400
