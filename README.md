@@ -1,3 +1,3 @@
 <p align="center"> 
-  <img src="https://files.catbox.moe/wsfz2e.png" alt="" width="size">
+  <img src="" alt="" width="size">
 </p>
