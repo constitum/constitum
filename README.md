@@ -8,6 +8,6 @@
 <img src="https://files.catbox.moe/ts6ock.jpg" Width="250"/>
   </p>
   <p align="center">
-  <a href="https://mafiarecord.straw.page/"> mafia*record</a> .  .୨ৎ.  .
+  <a href="https://mafiarecord.straw.page/"> mafia*record</a> .  . ୨ৎ .  .
   <a href="https://constitum.atabook.org/">sign ata~</a>
   </p>
